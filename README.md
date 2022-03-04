@@ -28,7 +28,7 @@ The game can be played by executing the command `python src/main.py`.
 
 ## Requirements
 
-The gameplay should, as closely as possible, satisfy the following requirements:
+An example template for gameplay is included below. You do not have to follow this exaclty, but you can if you want to. 
 
 - Following a welcome message explaining the game, the user enters their name which is then used throughout the program.
 - The user starts in a main room with three lives. The theme of the game is up to you to choose.
